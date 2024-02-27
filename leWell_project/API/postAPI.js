@@ -9,7 +9,7 @@ export function getPosts() {
             reject(error)
         });
     });
-}
+} 
 
 export function createPost(data) {
     return new Promise((resolve, reject) => {

@@ -7,7 +7,7 @@ import Ionicons from 'react-native-vector-icons/Ionicons';
 import Users from './Components/Users.js';
 import Lists from './Components/Lists.js';
  
-const Tab = createBottomTabNavigator();
+const Tab = createBottomTabNavigator(); 
 
 export default function App() {
   return (

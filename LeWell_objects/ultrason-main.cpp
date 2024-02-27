@@ -4,7 +4,7 @@
 const int trig_pin = 5;
 const int echo_pin = 18;
 
-#define SOUND_SPEED 340 
+#define SOUND_SPEED 340  
 #define TRIG_PULSE_DURATION_US 10
 
 long ultrason_duration;
